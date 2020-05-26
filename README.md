@@ -41,7 +41,7 @@ wget https://raw.githubusercontent.com/stilleshan/frps/master/frps_linux_uninsta
 #### 运行一键脚本
 修改以下脚本链接中的`stilleshan`为你的GitHub账号ID后,运行即可.
 ```shell
-wget https://raw.githubusercontent.com/stilleshan/frps/master/frps_linux_install.sh && chmod +x frps_linux_install.sh && ./frps_linux_install.sh
+wget https://raw.githubusercontent.com/belial-beast/frps/master/frps_linux_install.sh && chmod +x frps_linux_install.sh && ./frps_linux_install.sh
 ```
 #### 卸载脚本
 frps_linux_uninstall.sh 卸载脚本为通用脚本,可直接运行,也可同上方式修改链接后运行.
